@@ -1,0 +1,24 @@
+mode: set
+github.com/kunlanat/go-example/repository/book.respository.go:20.57,24.2 1 1
+github.com/kunlanat/go-example/repository/book.respository.go:30.102,38.37 3 1
+github.com/kunlanat/go-example/repository/book.respository.go:38.37,40.3 1 0
+github.com/kunlanat/go-example/repository/book.respository.go:41.2,41.32 1 1
+github.com/kunlanat/go-example/repository/book.respository.go:44.100,47.21 3 1
+github.com/kunlanat/go-example/repository/book.respository.go:47.21,49.3 1 1
+github.com/kunlanat/go-example/repository/book.respository.go:51.2,51.47 1 1
+github.com/kunlanat/go-example/repository/book.respository.go:51.47,53.3 1 0
+github.com/kunlanat/go-example/repository/book.respository.go:55.2,55.29 1 1
+github.com/kunlanat/go-example/repository/book.respository.go:55.29,57.3 1 1
+github.com/kunlanat/go-example/repository/book.respository.go:59.2,59.8 1 1
+github.com/kunlanat/go-example/repository/book.respository.go:62.88,66.34 3 1
+github.com/kunlanat/go-example/repository/book.respository.go:66.34,68.3 1 1
+github.com/kunlanat/go-example/repository/book.respository.go:70.2,70.29 1 1
+github.com/kunlanat/go-example/repository/book.respository.go:73.110,83.38 4 1
+github.com/kunlanat/go-example/repository/book.respository.go:83.38,85.3 1 0
+github.com/kunlanat/go-example/repository/book.respository.go:87.2,87.60 1 1
+github.com/kunlanat/go-example/repository/book.respository.go:87.60,89.3 1 1
+github.com/kunlanat/go-example/repository/book.respository.go:91.2,93.31 2 1
+github.com/kunlanat/go-example/repository/book.respository.go:96.74,97.50 1 1
+github.com/kunlanat/go-example/repository/book.respository.go:97.50,98.72 1 1
+github.com/kunlanat/go-example/repository/book.respository.go:98.72,100.4 1 0
+github.com/kunlanat/go-example/repository/book.respository.go:101.3,101.13 1 1
